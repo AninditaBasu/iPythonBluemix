@@ -4,7 +4,7 @@ A simple starter app to get an iPython framework up and running on Bluemix.
 
 ## Installation
 
-1.    Deploy this app to Bluemix by clicking here: [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/AninditaBasu/iPythonBluemix # [required])
+1.    Deploy this app to Bluemix by clicking here: [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/AninditaBasu/iPythonBluemix)
 2.    Follow the onscreen directions. After the app is deployed and running, click the app's URL. You are taken to the iPython Jupyter login page. 
 3.    Click __Log in__ without typing any password. The iPython framework opens. Open a new notebook, import the `hello_world.py` script, and run it. You should be asked your name and shown some lines of text.
 
