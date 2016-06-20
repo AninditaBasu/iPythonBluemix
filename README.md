@@ -2,11 +2,13 @@
 
 A simple starter app to get an iPython framework up and running on Bluemix. 
 
+This app can be used to run Python code interactively through Bluemix, for example, the app code demo-ed in this article: [Ask Watson what Twitter is telin you: Part 1](http://www.ibm.com/developerworks/library/cc-ask-watson-part1-bluemix-trs/index.html)
+
 ## Installation
 
 1.    Deploy this app to Bluemix by clicking here: [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/AninditaBasu/iPythonBluemix)
 2.    Follow the onscreen directions. After the app is deployed and running, click the app's URL. You are taken to the iPython login page. 
-3.    Click __Log in__ without typing any password. Open a new notebook, import the `hello_world.py` script, and run it. You should be asked your name and shown some lines of text.
+3.    Click __Log in__ without typing any password. Open a new notebook, import the `hello_world.py` script, and run it. You should be asked your name and shown some lines of text. You can now proceed to run Python code through the iPython framework.
 
 ## Files and folders
 
