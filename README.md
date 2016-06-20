@@ -2,7 +2,7 @@
 
 A simple starter app to get an iPython framework up and running on Bluemix. 
 
-This app can be used to run Python code interactively through Bluemix, for example, the app code demo-ed in this article: [Ask Watson what Twitter is telin you: Part 1](http://www.ibm.com/developerworks/library/cc-ask-watson-part1-bluemix-trs/index.html)
+This app can be used to run Python code interactively through Bluemix, for example, the app code demo-ed in this article: [Ask Watson what Twitter is telling you: Part 1](http://www.ibm.com/developerworks/library/cc-ask-watson-part1-bluemix-trs/index.html)
 
 ## Installation
 
@@ -13,7 +13,7 @@ This app can be used to run Python code interactively through Bluemix, for examp
 ## Files and folders
 
 -    `static`
-    - `hello.txt`: A file that is used by the `hello_world.py` file (further down this list).
+    - `hello.txt`: A file that is used by the `hello_world.py` script (further down this list).
 -    `License.txt`: Contains placeholder text that you replace with the license that you distribute your app with.
 -    `Procfile`: Contains the command that tells Bluemix which file to launch when the app is opened. For this app, the iPython framework is specified as the launchpoint.
 -    `README.md`: The file that you are reading at this moment.
